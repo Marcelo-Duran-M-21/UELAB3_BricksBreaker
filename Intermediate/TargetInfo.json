@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UELAB3_BricksB",
+			"Path": "C:\\Users\\rodri\\OneDrive\\Escritorio\\UE 457Lab3\\UELAB3_BricksB\\Source\\UELAB3_BricksB.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UELAB3_BricksBEditor",
+			"Path": "C:\\Users\\rodri\\OneDrive\\Escritorio\\UE 457Lab3\\UELAB3_BricksB\\Source\\UELAB3_BricksBEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

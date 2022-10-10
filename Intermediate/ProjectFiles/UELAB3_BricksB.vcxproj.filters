@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UELAB3_BricksB.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9EE0DACE-F490-484E-A1A7-EF5F73543BC3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UELAB3_BricksB.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UELAB3_BricksBEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2167F659-9936-4750-B708-62DAACD0E378}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UELAB3_BricksB">
+      <UniqueIdentifier>{EFCA6851-E6F8-4870-85D0-DD9997EE2685}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UELAB3_BricksB\AC_Ball.cpp">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UELAB3_BricksB\AC_Ball.h">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UELAB3_BricksB\AC_Bricks.cpp">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UELAB3_BricksB\AC_Bricks.h">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UELAB3_BricksB\AC_Capsule.cpp">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UELAB3_BricksB\AC_Capsule.h">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UELAB3_BricksB\AC_ScoreGame.cpp">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UELAB3_BricksB\AC_ScoreGame.h">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UELAB3_BricksB\APW_Paddle.cpp">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UELAB3_BricksB\APW_Paddle.h">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UELAB3_BricksB\UELAB3_BricksB.Build.cs">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UELAB3_BricksB\UELAB3_BricksB.cpp">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UELAB3_BricksB\UELAB3_BricksB.h">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UELAB3_BricksB\UELAB3_BricksBGameModeBase.cpp">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UELAB3_BricksB\UELAB3_BricksBGameModeBase.h">
+      <Filter>Source\UELAB3_BricksB</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

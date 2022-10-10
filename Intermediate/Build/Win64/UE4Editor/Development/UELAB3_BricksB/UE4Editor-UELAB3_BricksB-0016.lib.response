@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UELAB3_BricksB-0016.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UELAB3_BricksBEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\AC_Ball.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\AC_Bricks.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\APW_Paddle.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\UELAB3_BricksB.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\UELAB3_BricksBGameModeBase.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\AC_Ball.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\AC_Bricks.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\APW_Paddle.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\UELAB3_BricksB.init.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\UELAB3_BricksBGameModeBase.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\Default.rc2.res"
+/OUT:"C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\UE4Editor-UELAB3_BricksB-0016.lib"

@@ -1,0 +1,5 @@
+C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Development\UELAB3_BricksB\Definitions.UELAB3_BricksB.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Source\UELAB3_BricksB/APW_Paddle.h
+C:\Users\rodri\OneDrive\Escritorio\UE 457Lab3\UELAB3_BricksB\Intermediate\Build\Win64\UE4Editor\Inc\UELAB3_BricksB\APW_Paddle.generated.h
